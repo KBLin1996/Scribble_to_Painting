@@ -1,4 +1,4 @@
-# Transform from scribble to painting
+# Transform from Scribble to Painting
 >這是一個將手繪圖鴉轉換為彩色圖畫的程式，程式內容主要分成前處理、相似度比較、組成與風格轉換四部份，相似度比較所使用的演算法是sparse coding
 ，而風格轉換則是用CNN。
 

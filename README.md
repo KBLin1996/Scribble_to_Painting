@@ -1,12 +1,10 @@
 # Transform from Scribble to Painting
->這是一個將手繪圖鴉轉換為彩色圖畫的程式，程式內容主要分成前處理、相似度比較、組成與風格轉換四部份，相似度比較所使用的演算法是sparse coding
+>這是一個將手繪圖鴉轉換為彩色圖畫的程式，程式內容主要分成前處理、相似度比較、組成與風格轉換四部份，相似度比較所使用的演算法是Sparse Coding
 ，而風格轉換則是用CNN。
 
 ## 開發環境
-* OS: Ubuntu 18.04 LTS
-* GPU: GTX 1060 6G
-* CPU: i5-6700
-* RAM: 16G
+* OS: Ubuntu 18.04 or Windows
+* Env: Matlab R2019a, Python 3.6
 
 ## 執行方法
 ### 第一步
